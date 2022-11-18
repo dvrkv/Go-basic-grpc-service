@@ -7,6 +7,6 @@ go run cmd/server/main.go
 
 #### Launch client
 ```
-go run cmd/client/main.go **num_one num_two**
+go run cmd/client/main.go **num_one num_two** 
 ```
 
