@@ -1,4 +1,4 @@
-## Basic gRPC service that takes two numbers and returns their sum.
+## Basic gRPC service that takes two numbers and returns their sum
 
 #### Launch server
 ```
